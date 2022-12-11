@@ -6,6 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 http://weather-app-el.s3-website-us-east-1.amazonaws.com/
 
+## Contact
+
+Emily LaBelle - [Linkdin](https://www.linkedin.com/in/emilylabelledev/) - emilylabelle8@gmail.com
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
